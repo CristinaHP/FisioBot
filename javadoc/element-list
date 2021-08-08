@@ -1,0 +1,13 @@
+com.example.demo
+com.example.demo.historial
+com.example.demo.mongo.repositorios
+com.example.demo.mongo.servicios
+com.example.demo.redis.config
+com.example.demo.redis.repositorios
+com.example.demo.statemachine.config
+com.example.demo.statemachine.controladores
+com.example.demo.statemachine.modelo
+com.example.demo.statemachine.repositorios
+com.example.demo.statemachine.servicios
+com.example.demo.telegram.bot
+com.example.demo.telegram.servicios
